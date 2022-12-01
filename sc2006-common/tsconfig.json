@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"target": "ES2021",
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"outDir": "dist",
+		"esModuleInterop": true,
+		"strict": true,
+		"noImplicitAny": false,
+		"noImplicitReturns": true,
+		"noImplicitOverride": true,
+		"useUnknownInCatchVariables": false,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"sourceMap": true
+	},
+	"include": ["src"]
+}

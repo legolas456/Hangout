@@ -1,0 +1,9 @@
+# compiled output
+/node_modules
+package-lock.json
+yarn.lock
+
+# env variables
+*.env
+
+.eslintcache

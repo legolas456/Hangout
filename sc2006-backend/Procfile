@@ -1,0 +1,1 @@
+web: cd sc2006-backend && npm run start:prod
